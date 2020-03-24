@@ -10,10 +10,12 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
-A Library of unique Elementor Widgets to add more functionality and flexibility to your website. Dragfy Addons for Elementor is made with care of each pixel. Making your website beautiful has never been easier.
+A library of power pack elements for elementor widgets to add more functionality and flexibility to your website. Dragfy Addons for Elementor is completely free elementor addons and is made with care of each pixel. Making your website beautiful has never been easier.
 
 
 [Check the Demos](http://dragfy.com/elementor-addons/)
+
+https://www.youtube.com/watch?v=LIE_fSFvUrM
 
 
 ### Completely Customizable
@@ -25,7 +27,7 @@ No extra resources or messy codes to slow down your website. You can enable/disa
 ### Elements Control option
 Enable and disable individual elements to make your page loading faster and smoother. You can deactivate unnecessary widgets to keep the site lite.
 
-### WPLM Ready
+### WPML Ready
 You can use Dragfy Addons for Elementor to build multilingual websites easily as our plugin is 100% compatible with WPML.
 
 ### Excellent Support
